@@ -36,3 +36,13 @@ public class LogManager
             }
         }
     }
+
+    public void Log(string message)
+    {
+     
+        string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+        string logMessage = $"{timestamp} - {message}";
+
+        File.AppendAllText(_logFilePath, logMessage + Environment.NewLine);
+    }
+}
