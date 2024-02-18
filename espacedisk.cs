@@ -5,11 +5,13 @@ using System.Threading;
 
 public class DiskSpaceMonitor
 {
-    private readonly Timer _timer
+    private readonly Timer _timer; 
 
-  
+   
     public DiskSpaceMonitor(int intervalInSeconds)
     {
         
-        _timer = new Time(CheckDiskSpace, null, TimeSpan.Zero, TimeSpan.FromSeconds(intervalInSeconds));
+        _timer = new Timer(CheckDiskSpace, null, TimeSpan.Zero, TimeSpan.FromSeconds(intervalInSeconds));
     }
+
+    
