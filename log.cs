@@ -19,3 +19,20 @@ public class LogManager
         string dateTimeFormat = DateTime.Now.ToString("yyyy-MM-dd_HH-mm-ss");
         _logFilePath = $"disk_space_log_{dateTimeFormat}.txt";
     }
+
+    public static LogManager Instance
+    {
+        get
+        {
+            lock (_lock)
+            {
+                // Si _instance est null, une nouvelle instance de LogManager est créée.
+                if (_instance == null)
+                {
+                    _instance = new LogManager();
+                }
+                // Retourne l'instance unique existante ou nouvellement créée.
+                return _instance;
+            }
+        }
+    }
