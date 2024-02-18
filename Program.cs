@@ -9,3 +9,12 @@ class Program
         {
             interval = argInterval;
         }
+        else
+        {
+            
+            Console.WriteLine("Entrez l'intervalle en secondes pour la surveillance de l'espace disque:");
+            while (!int.TryParse(Console.ReadLine(), out interval) || interval <= 0)
+            {
+                Console.WriteLine("Entrée invalide. Veuillez saisir un entier positif :");
+            }
+        }
