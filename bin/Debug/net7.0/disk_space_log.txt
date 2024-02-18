@@ -1,0 +1,8 @@
+Available disk space on C: 93240135680 bytes
+Available disk space on C: 93236703232 bytes
+Available disk space on C: 93235499008 bytes
+Available disk space on C: 93235134464 bytes
+Available disk space on C: 93233868800 bytes
+Available disk space on C: 93233799168 bytes
+2024-02-10 11:58:19 - Available disk space on C: 93214547968 bytes
+2024-02-10 11:58:29 - Available disk space on C: 93214552064 bytes
