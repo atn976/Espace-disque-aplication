@@ -33,3 +33,9 @@ public class DiskSpaceMonitor
         Console.WriteLine(message); // Affiche le message dans la console.
         LogManager.Instance.Log(message); // Log le message via l'instance de LogManager.
     }
+ // Utilisation de l'instance de LogManager (implémentant le pattern Singleton) pour logger le message.
+    // Le pattern Singleton assure qu'une unique instance de LogManager est utilisée à travers l'application,
+    // centralisant ainsi la gestion des logs.
+    
+    
+}
