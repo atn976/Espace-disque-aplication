@@ -18,3 +18,10 @@ class Program
                 Console.WriteLine("Entrée invalide. Veuillez saisir un entier positif :");
             }
         }
+        
+        DiskSpaceMonitor monitor = new DiskSpaceMonitor(interval);
+        Console.WriteLine($"Surveillance de l'espace disque toutes les {interval} secondes. Appuyez sur une touche pour quitter...");
+
+        Console.ReadKey();
+    }
+}
