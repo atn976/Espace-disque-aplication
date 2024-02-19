@@ -1,0 +1,8 @@
+2024-02-17 23:19:02 - Espace disque disponible sur C: 80,50 GB (86439452672 bytes)
+2024-02-17 23:19:13 - Espace disque disponible sur C: 80,50 GB (86435840000 bytes)
+2024-02-17 23:19:23 - Espace disque disponible sur C: 80,49 GB (86424068096 bytes)
+2024-02-17 23:19:34 - Espace disque disponible sur C: 80,49 GB (86422290432 bytes)
+2024-02-17 23:19:36 - Espace disque disponible sur C: 80,49 GB (86420959232 bytes)
+2024-02-17 23:19:38 - Espace disque disponible sur C: 80,48 GB (86419574784 bytes)
+2024-02-17 23:19:40 - Espace disque disponible sur C: 80,26 GB (86181908480 bytes)
+2024-02-17 23:19:42 - Espace disque disponible sur C: 80,26 GB (86177484800 bytes)
