@@ -1,7 +1,0 @@
-2024-02-11 01:46:47 - Available disk space on C: 86,06 GB (92408430592 bytes)
-2024-02-11 01:46:57 - Available disk space on C: 86,06 GB (92404297728 bytes)
-2024-02-11 01:47:07 - Available disk space on C: 86,05 GB (92395237376 bytes)
-2024-02-11 01:47:17 - Available disk space on C: 86,04 GB (92383719424 bytes)
-2024-02-11 01:47:27 - Available disk space on C: 86,04 GB (92380012544 bytes)
-2024-02-11 01:47:37 - Available disk space on C: 86,03 GB (92377788416 bytes)
-2024-02-11 01:47:47 - Available disk space on C: 86,03 GB (92376997888 bytes)
