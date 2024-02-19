@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 
 // La classe LogManager implémente le design pattern Singleton pour assurer une unique instance de gestion des logs.
