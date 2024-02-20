@@ -9,3 +9,6 @@ l'apli ce lance avec les commands :
 ## Version 2.0
 Développer la même application en WPF.
 L’application doit permettre de visualiser le fichier log sans arrêter le processus d’enregistrement
+
+Use case UML
+![image](https://github.com/atn976/Espace-disque-aplication/assets/119575129/f5da47ed-15a6-4684-bcac-cd3a4f9a5706)
