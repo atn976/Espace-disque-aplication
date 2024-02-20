@@ -10,7 +10,8 @@ l'apli ce lance avec les commands :
 Développer la même application en WPF.
 L’application doit permettre de visualiser le fichier log sans arrêter le processus d’enregistrement
 ## Github environnement
-![image](https://github.com/atn976/Espace-disque-aplication/assets/119575129/1e13e7a0-d128-4fca-b27d-7d419ab7324a)
+![image](https://github.com/atn976/Espace-disque-aplication/assets/119575129/d367f5e3-0d38-40db-a577-4265573fbefe)
+
 
 ## UML 
 Use case UML
