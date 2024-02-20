@@ -17,6 +17,9 @@ L’application doit permettre de visualiser le fichier log sans arrêter le pro
 Use case UML
 ![image](https://github.com/atn976/Espace-disque-aplication/assets/119575129/f5da47ed-15a6-4684-bcac-cd3a4f9a5706)
 
-### V.1
+### Version 1.0
 #### Class diagram
 ![image](https://github.com/atn976/Espace-disque-aplication/assets/119575129/fdd76e2c-60cd-4aa4-8283-22b8849cb218)
+
+### Version 2.0
+#### Class diagram
