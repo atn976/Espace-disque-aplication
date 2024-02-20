@@ -1,0 +1,10 @@
+﻿<!-- App.xaml -->
+<Application x:Class="ratrapage_version_2._0.Views.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ratrapage_version_2._0"
+             StartupUri="Views/MainWindow.xaml">
+    <Application.Resources>
+        <!-- Vos ressources globales ici -->
+    </Application.Resources>
+</Application>
