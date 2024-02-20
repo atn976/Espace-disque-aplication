@@ -1,4 +1,4 @@
-# Espace-disque-aplication
+# Espace-disque-application
 ## Version 1.0
 Développer une application Console permettant d’afficher toutes les N secondes l’espace de votre disque dur C
 N devant être passé en paramètre de l’application  (10 secondes par défaut)
