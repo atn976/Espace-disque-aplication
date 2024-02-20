@@ -25,5 +25,6 @@ Use case UML
 
 ### Version 2.0
 #### Class diagram
-![image](https://github.com/atn976/Espace-disque-aplication/assets/119575129/ecc1719c-f031-4d24-8bae-62e38831d836)
+![image](https://github.com/atn976/Espace-disque-aplication/assets/119575129/c57fc828-e0d6-4c86-b317-ba8490b94928)
+
 
